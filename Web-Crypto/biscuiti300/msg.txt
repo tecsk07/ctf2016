@@ -1,0 +1,8 @@
+biscuiti
+Can you login as admin?
+
+http://biscuiti.pwn.seccon.jp/
+
+biscuiti.zip
+
+Note: You should estimate that exploits cost an hour.
